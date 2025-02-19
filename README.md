@@ -16,6 +16,6 @@ ruby -v
 
 Cloning the Repo:
 ```sh
-git clone https://github.com/iburr/Ruby-Script.git
+git clone https://github.com/bluechipsonly/Ruby-Script.git
 cd Ruby-Script
 ```
